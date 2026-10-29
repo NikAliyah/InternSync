@@ -15,7 +15,7 @@ A lightweight, client-side web app for tracking internship applications, rating 
 
 ## How to Access
 
-- Open the live link (https://nikaliyah.github.io/internsync/)
+- Open the live link (https://nikaliyah.github.io/InternSync/)
 - On the login page, enter the credentials below
 - Click Login
 - Email: aliyah@gmail.com | Password: 12345
